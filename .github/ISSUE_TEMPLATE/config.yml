@@ -1,0 +1,18 @@
+# Organization-wide default issue template chooser.
+#
+# Lives in the shotgunsoftware/.github repository and applies to every public
+# repository in the organization that does not define its own
+# .github/ISSUE_TEMPLATE/ directory. A repository-level config.yml overrides
+# this file entirely.
+#
+# Docs: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+blank_issues_enabled: true
+
+contact_links:
+  - about: Ask the Flow Production Tracking community - usually the fastest answer.
+    name: Questions, ideas and how-to help
+    url: https://community.shotgridsoftware.com/
+  - about: Open a support case. Don't hesitate to contact us.
+    name: Autodesk Support
+    url: https://www.autodesk.com/support
